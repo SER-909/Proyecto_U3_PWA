@@ -1,0 +1,25 @@
+{
+  "name": "Todo-List U3",
+  "short_name": "Todo-List U3",
+  "description": "app Todo-List proyecto U3",
+  "background_color": "#2B2B2B",
+  "theme_color": "#1A2980",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./img/lista.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/lista.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+    
+  ]
+}
